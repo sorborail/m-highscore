@@ -1,0 +1,1 @@
+gRPC Highscore service realizing.
